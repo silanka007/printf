@@ -1,5 +1,5 @@
 .\" Manpage for _printf
-.TH man 8 "27 October 2020" "1.0" "_printf man page"
+.TH man 8 "21 May 2022" "1.0" "_printf man page"
 .SH NAME
 _printf - format and write a string, character or integer to stdout
 .SH SYNOPSIS
@@ -30,7 +30,6 @@ It is a character string, composed of zero or more directives, ordinary characte
 No known bugs
 .SS colphon
 .br
-This page was created in collaboration with ALX-Holberton, 20 minutes before the submission deadline.
 
 .SH AUTHORS
 .B Paul Onyekwelu and Amuche Ezeagu
